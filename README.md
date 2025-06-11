@@ -54,7 +54,14 @@ In this lab we are going to create a windows vm and linux vm
 
 **Now go back to the resource grouops and click on the resource we created earlier. Note: you might see another resource group we will ignore that for now.**
 **As you can see there are a lot of items that were create, the vm, a network and storage and so on...**
+
 ![step10](https://github.com/user-attachments/assets/d8ec8ae5-0954-49c5-82b9-57a66abd2ae7)
 
+**From here we are going to repeat the steps all over again. This time we will be a Linux VM. Make sure it's in the same resource group and virtual network.**
+
+---
+
+**Known issues**
+There are times where you might not see the virtual network, try to refresh the page if this happens. 
 
 
